@@ -127,3 +127,4 @@ License
  [12]: http://nhaarman.github.io/ListViewAnimations/javadoc/3.1.0/lib-core
  [13]: http://nhaarman.github.io/ListViewAnimations/javadoc/3.1.0/lib-manipulation
  [14]: http://nhaarman.github.io/ListViewAnimations/javadoc/3.1.0/lib-core-slh
+写的真好。赞一个。
